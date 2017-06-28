@@ -1,0 +1,7 @@
+D:\Mark\QrCode\QrCode\bin\Debug\QrCode.exe.config
+D:\Mark\QrCode\QrCode\bin\Debug\QrCode.exe
+D:\Mark\QrCode\QrCode\bin\Debug\QrCode.pdb
+D:\Mark\QrCode\QrCode\bin\Debug\Gma.QrCodeNet.Encoding.dll
+D:\Mark\QrCode\QrCode\obj\Debug\QrCode.exe
+D:\Mark\QrCode\QrCode\obj\Debug\QrCode.pdb
+D:\Mark\QrCode\QrCode\obj\Debug\QrCode.csprojResolveAssemblyReference.cache
