@@ -77,7 +77,6 @@ namespace QrCode
             Graphics g = Graphics.FromImage(map);
             render.Draw(g, qrCode.Matrix);
             Image img = Image.FromFile(@"D:\img\weixiao.png");
-            
             Point imgPoint = new Point((map.Width - img.Width) / 2, (map.Height - img.Height) / 2);
             g.DrawImage(img, imgPoint.X, imgPoint.Y, img.Width, img.Height);
             map.Save(filename, ImageFormat.Png);
